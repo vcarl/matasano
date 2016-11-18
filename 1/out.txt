@@ -1,0 +1,986 @@
+{ score: 34,
+  compareScore: 26,
+  value: 'Cooking MC\'s like a pound of bacon' }
+{ score: 16,
+  compareScore: 13,
+  value: 'iQ �>JR6-ou$?BQ�Z�\u0014\'>gyX4;�@wU' }
+{ score: 19,
+  compareScore: 15,
+  value: 'C;tm�T�Lhqj �xy\n�x�� cG�N`x$Pm' }
+{ score: 18,
+  compareScore: 16,
+  value: '$�C�xtgyeW=oz-kQp�>0pYlFHN$\u0015�5' }
+{ score: 18,
+  compareScore: 11,
+  value: '\u0011\u0010_CI\bOu`zVHnZ�\'\'u\b\u0014p��\'h�R�PX' }
+{ score: 21,
+  compareScore: 14,
+  value: '@c< ie�Ct/;W�AZ\'M JNzT�GTJ.\'o�' }
+{ score: 18,
+  compareScore: 14,
+  value: 'a^ Kg\r��e?mnSjc\'��\'e7r�a�J[&tX' }
+{ score: 20,
+  compareScore: 18,
+  value: '2tbCK(hlW\u001aib/�Zu08x�br�ExaKq}q' }
+{ score: 21,
+  compareScore: 15,
+  value: '�{DY\'I7gcSwcOdJc\'��o Ss176,uVf' }
+{ score: 21,
+  compareScore: 17,
+  value: '}AzD-Q FKti �d;sFR0=sKyfoj>f(/' }
+{ score: 19,
+  compareScore: 16,
+  value: '=dV{�j.Zcc�a^M*LS�Eu5nfHVrd\u000e� ' }
+{ score: 14,
+  compareScore: 14,
+  value: '�=".<N\u000eh4#wtl+\u000fsgFyJ\u001e04OOD8\'^�' }
+{ score: 18,
+  compareScore: 16,
+  value: '� �XvH}qvo]x/A��LR�Ihy@G�\u0004 �gi' }
+{ score: 18,
+  compareScore: 13,
+  value: 'gV2BEzkJ\'�cc\u0019\u00127kU2&UIv^�qA9>r�' }
+{ score: 19,
+  compareScore: 13,
+  value: 'h�BUjM�Ft�\'j�QyLEX#EJ�7e�-q\\K�' }
+{ score: 21,
+  compareScore: 19,
+  value: '~dT\\ uJ\'eNvy\'hlb7C)�\u000e:A0hl@gxh' }
+{ score: 22,
+  compareScore: 16,
+  value: 'c\'ogow�DHfw�6#OF8Hs5!Yx�A DxoX' }
+{ score: 17,
+  compareScore: 16,
+  value: 'qkP)inC\u001e�krNmqv.��\\{<Y� -ɉNJd' }
+{ score: 18,
+  compareScore: 17,
+  value: 'XK�n\n\u0012XPiAq\u0017 ��uy�&faDc�i\f]RE\u000e' }
+{ score: 18,
+  compareScore: 11,
+  value: ' &xX�1\'z{\feiss�j?�OrrsL F0U��' }
+{ score: 20,
+  compareScore: 17,
+  value: 'z�+  �9Gj~�F=;oDIhXy`\u0012TKMTaajl' }
+{ score: 19,
+  compareScore: 14,
+  value: 'gnea�\'E8LjD7�.TQdC7r=ZorY�]k��' }
+{ score: 19,
+  compareScore: 14,
+  value: 'XrV}yj7 \'N\u001dZ�qim+3yA&-J#hv;]rF' }
+{ score: 12,
+  compareScore: 10,
+  value: '&el�R3zry9,)�5 F\u0006\u001b��K}\fG��V�W�' }
+{ score: 17,
+  compareScore: 16,
+  value: 'Yqff&-ZGZ\u0010+�I��AhO�\u0018h,K4+Io�BB' }
+{ score: 20,
+  compareScore: 19,
+  value: '�jYMzyy?PdUQS3E.� y\u0001DrKa\u0018&�z*s' }
+{ score: 20,
+  compareScore: 20,
+  value: 'J1j,aGU.VMVj83xN;XhBD;LGd\u001aqg�' }
+{ score: 18,
+  compareScore: 16,
+  value: 'OG26�FTkZy\u001f�nfc?]kl\\lm9u;Xr|\'+' }
+{ score: 17,
+  compareScore: 11,
+  value: '!Pll%NF�_11\'IE>LHx5\u0002Q�bgQ?�/od' }
+{ score: 18,
+  compareScore: 13,
+  value: '�EuwxPo1g+Q?6hPx\u001c 5E0j!�,mNm�u' }
+{ score: 16,
+  compareScore: 15,
+  value: '�S5h�1evX\u0013quK7Obr5�6h} 9{i5O�V' }
+{ score: 20,
+  compareScore: 17,
+  value: 'Hr1PKf<xDOn8s�<Mzqb�A1kaR:r8x;' }
+{ score: 18,
+  compareScore: 15,
+  value: '�tz!�ghR8jE\u0002?5KqyC9By6/��sOOqp' }
+{ score: 21,
+  compareScore: 19,
+  value: 'mp�,Sz#utAks&Pv;K�cSyD9\'M�x`aM' }
+{ score: 18,
+  compareScore: 16,
+  value: 'Z�jqZqkT0q{j,r4s0 M�|dAaO;�T' }
+{ score: 21,
+  compareScore: 19,
+  value: 'YUUY\u0010MQ�\\m fkC(PO[IzJN8JrA�@\'\t' }
+{ score: 22,
+  compareScore: 21,
+  value: 'b~k,nye%-eQnF\'Fa_\u00001MOub> DrNfG' }
+{ score: 17,
+  compareScore: 13,
+  value: 'L��HfC8xs\u001aHWRc2&M]Zg,8�M�Ty�7\'' }
+{ score: 21,
+  compareScore: 16,
+  value: ')r- BD1jYA\u0004jBSl�H#Cq�c\\ev)XVbJ' }
+{ score: 19,
+  compareScore: 17,
+  value: 'b(YV0nZR(Smd\u0011k�E<$�\'#eU�m@rB C' }
+{ score: 17,
+  compareScore: 14,
+  value: '<4R�CRu�py)(GrO�>kA�V�7\u001eYcw%LE' }
+{ score: 14,
+  compareScore: 9,
+  value: 'iA�;Hm�\u00189s<4V1wY��W ��XJ*Fn\u0010(,' }
+{ score: 21,
+  compareScore: 19,
+  value: 'r?�WIfh<u\u0015� �iGx}mhqfi_yqc4scf' }
+{ score: 16,
+  compareScore: 14,
+  value: '\u0018Vx~T1q�\'HdIn\u001d�h0\'ng7S\u0011r����8w' }
+{ score: 19,
+  compareScore: 17,
+  value: '2S9�Wn0Zi[�|IECN!Ak&dV��XLPfjY' }
+{ score: 15,
+  compareScore: 11,
+  value: 'f�Myl�7(\u000b\'wF5@trK-I!1(:B�E:hP8' }
+{ score: 19,
+  compareScore: 16,
+  value: 'IXGnz>Tk\bZB�ism\'-4�\u000bzvwQa%M���' }
+{ score: 17,
+  compareScore: 13,
+  value: '�R�QbAka(<�DD�\u001f"jQ$C�!?�MAJNxH' }
+{ score: 20,
+  compareScore: 15,
+  value: 'p��rcHLEKk\u0010\u000bKXZg\u0018Ff \bbv��BY�U\u001b' }
+{ score: 18,
+  compareScore: 15,
+  value: 'zr*Q5$>eISdbNό�POp}U69y0�cDjv' }
+{ score: 16,
+  compareScore: 12,
+  value: '�< ,�!CNmYKbB>,leVL*\u00194q?G�.Od4' }
+{ score: 16,
+  compareScore: 13,
+  value: '\tL9e\'�-u2THg\u0001�1qozxGi:�E���CU\u0004' }
+{ score: 21,
+  compareScore: 16,
+  value: 'c /?xPHoZuuqlzeFnN{��\u0017ixUj?c.' }
+{ score: 16,
+  compareScore: 13,
+  value: 'sdI8�?fq�CkB<�\\wYŭyWx ++k�*)x' }
+{ score: 18,
+  compareScore: 17,
+  value: 'jut0NY9o/KC\u001c�EG"y]C.o�\'%UbcN��' }
+{ score: 18,
+  compareScore: 17,
+  value: '"�Jq\u0019SKcxL:?mWl9,j?MrfHs�S�^ 4' }
+{ score: 20,
+  compareScore: 16,
+  value: 'lF>9RdZwg�k\';RLpz eV0cm5_W5\u001ba7' }
+{ score: 17,
+  compareScore: 14,
+  value: 'M�Ii\'1Eo/t�\u001cEGg#aKo�+dUܟ�lX-' }
+{ score: 15,
+  compareScore: 13,
+  value: '\u00109ygxC�n2deP�>s� �5%ok;�YC=K$�' }
+{ score: 24,
+  compareScore: 19,
+  value: 'kFz�wpef2qSvQBHXa�U tVt�\u0003Jo]Sp' }
+{ score: 21,
+  compareScore: 18,
+  value: 'x\'D(:FEyG\'Qzrd8G�a\u0011])2]gvtKNGR' }
+{ score: 17,
+  compareScore: 12,
+  value: 'K 6&�uj:hAb�qgj&o4aDP\u000fwiD�8�3�' }
+{ score: 17,
+  compareScore: 14,
+  value: 'x9BGXr0�u?=j\u0006O�DRb�Y(\'I6p0P�\u001ax' }
+{ score: 19,
+  compareScore: 18,
+  value: 'DX6N)F\u000fvgX�(Od�^X`; JyBX�Y h"N' }
+{ score: 19,
+  compareScore: 13,
+  value: '5;E</o�\'iCQL:y"SWJHRAe�x�&Y2NB' }
+{ score: 18,
+  compareScore: 15,
+  value: 'o+/j�l\u000b W�+Nm�USGXc�EULc#b�(}g' }
+{ score: 18,
+  compareScore: 16,
+  value: 'v+R,qa c\fW&�wzJ[�\'Qs3b]6#RLMk,' }
+{ score: 20,
+  compareScore: 16,
+  value: 'L|Ii�FnS4RbJfg�0*�NDtYj8rI J(+' }
+{ score: 15,
+  compareScore: 13,
+  value: 'q�D4n�*bRUr2 ��jz~V4#G5z,<�\u0002ts' }
+{ score: 16,
+  compareScore: 12,
+  value: '\'xRQ0p\u0000\u00113kqc[ &�t0w�#(�f(Qun<j' }
+{ score: 18,
+  compareScore: 15,
+  value: 'JU2w;I� /nL�a! tYO�zXdf=3m[I".' }
+{ score: 19,
+  compareScore: 15,
+  value: '��54zT\u0015KKe7 vX2vMELj�Ta\'fK,@\u0007Q' }
+{ score: 19,
+  compareScore: 13,
+  value: 'yW tMN�$zm\f,e$9jB6\u001ee\'w\'L2pFB&4' }
+{ score: 18,
+  compareScore: 16,
+  value: ' tGOc�hH$A\u0000y*ToSNK�\\Zd2&\u0014up)\\\u0013' }
+{ score: 17,
+  compareScore: 15,
+  value: '1q{<WSc\\ga�:wc7k9m uf(Ury;\u0011*V8' }
+{ score: 18,
+  compareScore: 15,
+  value: 'hFpbw\u0016}BXaf/$\u001bo?5lI7Y /:nAg�>A' }
+{ score: 19,
+  compareScore: 16,
+  value: 'CCW=c�\u001d\'|l?T�Km6DIgnCZm� +GoҔ' }
+{ score: 18,
+  compareScore: 13,
+  value: '<�DlnTdY>C��pGRa<FLhO`YF90�"�o' }
+{ score: 19,
+  compareScore: 19,
+  value: 'hXw6yQZ%3qh=wXm�.x$og�5=kmSo_B' }
+{ score: 20,
+  compareScore: 19,
+  value: 'dqqe-EGu�\'9su�2X8JrcKK8H!e1cL!' }
+{ score: 18,
+  compareScore: 12,
+  value: 'IX/Ul4OPq\u0004 7t//\u001a8wl*gT) �eoBv' }
+{ score: 14,
+  compareScore: 12,
+  value: '\u0000�IZR}�YNS �06"DQ|��\u0005ta6xkK!5�' }
+{ score: 16,
+  compareScore: 13,
+  value: ')Y=&V8|w*\u0007mIS7RA\u0017�j c*�RAmF_9\'' }
+{ score: 20,
+  compareScore: 14,
+  value: 'xO8a�lNfZ"$FLI<w*rzG�MJ=xCm`C#' }
+{ score: 19,
+  compareScore: 15,
+  value: 'gV �tW]h��N�#CuMS\'( $"Xrvx<@Uj' }
+{ score: 18,
+  compareScore: 15,
+  value: 'ES\'%z.bTyX2)\nHt3#��XgRQ>D*O x�' }
+{ score: 20,
+  compareScore: 17,
+  value: 'kJ@iM4DIr\u0012�vlC&P��AY+HYQ�HDZ7C' }
+{ score: 20,
+  compareScore: 17,
+  value: 'd6HJf{4WlKI��>PqXHuyX\\,,ScZwK�' }
+{ score: 15,
+  compareScore: 13,
+  value: ';#x�U��S/!JeL&6CN��L*j aH\'h�+' }
+{ score: 16,
+  compareScore: 15,
+  value: 's�fU):QG;o\u001ct{4\'378\u001cIN�ow:uE�Ar' }
+{ score: 23,
+  compareScore: 15,
+  value: '�qOcFXjgwMuGll\u0003r�t\u0017NLsK\u0004I�yj\f ' }
+{ score: 18,
+  compareScore: 17,
+  value: 'y\'c��Bb2pXWq|CtdN"nD>�4sg5�0A�' }
+{ score: 18,
+  compareScore: 15,
+  value: '��h�im14fte7u"\u0011\'0#l�=iuYT Ylhz' }
+{ score: 18,
+  compareScore: 15,
+  value: 'w;Ar\u0013Fm]d"hqn�b =wb�GEz��3*aU.' }
+{ score: 17,
+  compareScore: 9,
+  value: 'hI�g\'UܝPn"s�D)#n�2tjF !.e%mP' }
+{ score: 15,
+  compareScore: 12,
+  value: '�jH#�x�Cm~\u000b\'X�fbS�8,"I>� \u001c,yiD' }
+{ score: 14,
+  compareScore: 11,
+  value: '\u0018+TE9C�X�<Q4\u000fr4��FQ$5a;YN\u0007K *w' }
+{ score: 20,
+  compareScore: 19,
+  value: 'RMm�UZGmqI4!vb5trs�2Y6gYEj %,' }
+{ score: 18,
+  compareScore: 16,
+  value: 'lq-)b.Mj"A}J8WHY�\'T4>J�(Gl�nyE' }
+{ score: 18,
+  compareScore: 15,
+  value: 'KB14,xtbC?Rq+"L|\u001buiSltZ,a9=�XV' }
+{ score: 21,
+  compareScore: 18,
+  value: 'mdy9Lr~X68D�ByRVm)JFoyYq <;�xa' }
+{ score: 21,
+  compareScore: 18,
+  value: '$Zy|�6FTYje\'h\u001eap~uDfjOx9qM�8HI' }
+{ score: 24,
+  compareScore: 21,
+  value: 'en.IomBlIKqA2Iycn\u001elqK? \\�qowJD' }
+{ score: 18,
+  compareScore: 14,
+  value: 'QC\'w\'{\';I\'[_w�DG8oWE/\u0007d>��X_\'W' }
+{ score: 19,
+  compareScore: 15,
+  value: '+z=FLl}$fGXWO!L�I2�rpGJv�\u0013�Xeq' }
+{ score: 19,
+  compareScore: 14,
+  value: '�m3nyYL\\;\'-d�!bvL(t�OI�\u0013XiCO\'A' }
+{ score: 19,
+  compareScore: 17,
+  value: 'h#IfUV3rhL�5 5^~LYR�\'WXH�M6�Yc' }
+{ score: 22,
+  compareScore: 19,
+  value: 'BXA9tWpcz�UqN9eYU\u001e�w|,T>lyMyfV' }
+{ score: 20,
+  compareScore: 17,
+  value: 'NdZ�ue<ZMAZlVjxc ^k�lB-?7Y\u00125D�' }
+{ score: 15,
+  compareScore: 9,
+  value: 'p;Vg/0�r(aAa���\'p# \'?j<�J4X\u0004/h' }
+{ score: 18,
+  compareScore: 15,
+  value: '��J�hvrCr��us:\'I�goIyi�^Nj8�8b' }
+{ score: 21,
+  compareScore: 17,
+  value: 'FUZmxY,;\u0019C"wl?eD\\\'q��xB�FVjxei' }
+{ score: 17,
+  compareScore: 15,
+  value: 'Ai9xkI*\u0012O�v2H�� Gy 5o;z�d1[qM,' }
+{ score: 17,
+  compareScore: 12,
+  value: 'Iw�MQ\u0006�gd=1XG&?U)\u001cK,Y f~1vLrz�' }
+{ score: 17,
+  compareScore: 14,
+  value: '8e�=,tgaQ\'�wrwe18lkfgTƬ�:QS/-' }
+{ score: 19,
+  compareScore: 16,
+  value: 'u|r65\'40mTgm\u0011Cy:iBC\'f.;yDRLe�!' }
+{ score: 20,
+  compareScore: 18,
+  value: 'rw$jrV\'8d|,N�?RYBMn�$9�LkOhCqR' }
+{ score: 20,
+  compareScore: 14,
+  value: '5dPy�Tl3?h�Dfbv#AYRXhF  +"sQ+' }
+{ score: 20,
+  compareScore: 14,
+  value: 'bSY* -\'tZdv|\u0001�Wusm! d�h�l6zLP"' }
+{ score: 17,
+  compareScore: 11,
+  value: 'o"UPa\'�\'Fxkh68Sc &CS$-/r4H��8' }
+{ score: 18,
+  compareScore: 17,
+  value: '~�43�W.gHEoOHHMZG0- �1H\u000eq/EUbV' }
+{ score: 18,
+  compareScore: 14,
+  value: '�<gM/R26A1HPbT+fe�WGM:jE=f8KA' }
+{ score: 20,
+  compareScore: 19,
+  value: '$\u0019c>k3v>38HY\u0004aHKr-GECgeOM�l QO' }
+{ score: 13,
+  compareScore: 8,
+  value: '=lfVJ <W4>kF:Z�#0�4�DT���\u001a-0YM' }
+{ score: 19,
+  compareScore: 16,
+  value: 'Xpwo�uC=Va>T�Ig#h5bdm�t0Tf<;3w' }
+{ score: 17,
+  compareScore: 15,
+  value: 'b�E~*Qc r�s/zL]h/�o\u001at.iq�zz\'�[' }
+{ score: 15,
+  compareScore: 12,
+  value: 'q�s�5^p2PfhՏt�N-\'�)LM�A�2\niux' }
+{ score: 15,
+  compareScore: 10,
+  value: 'gBL)Y�U�V->/�5"poG�O:k��7x\'N ' }
+{ score: 20,
+  compareScore: 13,
+  value: '&0R.toyup�pMw\'V��%CQ eUL%CbN\\' }
+{ score: 16,
+  compareScore: 13,
+  value: '+,ywT ~<i/P�Bmw1\f0D ?go,�o>Vi�' }
+{ score: 21,
+  compareScore: 16,
+  value: 'F8wUIm15�lZg8nxskmU!Kb Km�xy+' }
+{ score: 16,
+  compareScore: 14,
+  value: '�K$d;pns��-bw" \\Fsh�?x?\u0010DL&d#t' }
+{ score: 18,
+  compareScore: 15,
+  value: '5U1?�KyplAUO*2gM,\u0018eKkc#OC:DB�;' }
+{ score: 22,
+  compareScore: 15,
+  value: '@ SVuc.u�,�tKowk�Ui\u0016aBsmJFbZm|' }
+{ score: 14,
+  compareScore: 11,
+  value: '\f�\u000b\u0015r\u0013\t\u000by}<Iy\u000fh\u001btxoQt�i\bv\'r�\u0013�' }
+{ score: 20,
+  compareScore: 17,
+  value: 'rBNBJth��y3o\\u uAn9.iy2m\u0014�GP|B' }
+{ score: 19,
+  compareScore: 14,
+  value: '�U �Oc\\|T( J�TmL}\ta8zwHVA&P0Fe' }
+{ score: 21,
+  compareScore: 14,
+  value: 'z�pKaGmj<x1�Egg�r~fVY\'Mhj#W?P"' }
+{ score: 20,
+  compareScore: 16,
+  value: ' \'6AM=^D%YzXn�m p\u000ea8UUXr"G\u0001*DZ' }
+{ score: 20,
+  compareScore: 15,
+  value: 'rd}xP. .JO,hsZv:OxlN�mq\u0014,Tf��t' }
+{ score: 17,
+  compareScore: 17,
+  value: 'q|QYc�zmi�\'s8P:4YB�C�L74h�]\u0003 X' }
+{ score: 18,
+  compareScore: 16,
+  value: 'pGis�B6t�BB<. y ;�m\u000b+Aspydo�+#' }
+{ score: 17,
+  compareScore: 15,
+  value: 'L(%hKx\u00045DfaZBx69!_v;k$m=Yp,�p ' }
+{ score: 19,
+  compareScore: 18,
+  value: '�iv�Cze2L� a<�Q=et"yNjf%osH]O`' }
+{ score: 19,
+  compareScore: 12,
+  value: '�"�zncISNRp�u/mR>ld+P j+,BRx|�' }
+{ score: 17,
+  compareScore: 14,
+  value: 'ar>j9\'1V:\u0011k!C�k8=_y(P?dqYXcx6s' }
+{ score: 16,
+  compareScore: 12,
+  value: '\u001f;xDk?tJ\'�rkh-�i�&e�qx\u0012E\'*`u`\u001b' }
+{ score: 24,
+  compareScore: 20,
+  value: 'J\'�WHqyELM1sC�Qg\u0016Pnzkebyss"zy�' }
+{ score: 16,
+  compareScore: 13,
+  value: '+pPy\u0003�hn��hhnmu�\u0000�Z<Dt{\'D\u0012x�=�' }
+{ score: 18,
+  compareScore: 14,
+  value: 'G<z ok~F$A�s�*S\u0007EQiQCvqZu��;��' }
+{ score: 20,
+  compareScore: 16,
+  value: 'B;+PYl!CFN<\u0015T&f VK+OzQHKgYn|/\u0012' }
+{ score: 18,
+  compareScore: 13,
+  value: ']+O��Sn�r.O0c (J/y�n\'Ah\f\'}aMYZ' }
+{ score: 19,
+  compareScore: 17,
+  value: 'q<dX�maeh8d8UT� z�dxA.]R�u\u0019�IF' }
+{ score: 21,
+  compareScore: 17,
+  value: 'XlMeEmj�KA��DVP 7I[�{P1X\u001fCBwtm' }
+{ score: 17,
+  compareScore: 14,
+  value: 'b�:Cx)s\'�i�<?QC\u0019zPsj{t*�E!B+bi' }
+{ score: 17,
+  compareScore: 16,
+  value: 'fU\'�W>:T�gA�]\\=zfR\'GN��bCVd3`2' }
+{ score: 21,
+  compareScore: 16,
+  value: ' �F+D�kx%CQTZq&N+bRP9F:unaL(oh' }
+{ score: 16,
+  compareScore: 15,
+  value: '4 qE@^��< Z\u0013��eZn=VS�Jt\u00011Wcui' }
+{ score: 19,
+  compareScore: 16,
+  value: 'Qxt1kGKo,y\'1PHI�Y1*�\'2liI.D5c' }
+{ score: 15,
+  compareScore: 15,
+  value: '[izI�B1k�kvoBg�Ғ��{-\'�� �DJ5S' }
+{ score: 16,
+  compareScore: 11,
+  value: '$Vg��74X!1N�w)�P�Q\'�NEbVjsC\\2d' }
+{ score: 20,
+  compareScore: 16,
+  value: 'uEr!pJHw`\u001dFkg3\u0012O�spSY;\rcmeoJ�:' }
+{ score: 20,
+  compareScore: 19,
+  value: '_kcX&-Aj\'&pMfG8d�DXM\u0005�I4xR,aWo' }
+{ score: 21,
+  compareScore: 21,
+  value: 'O-OVZ"*ljzUmQo*x7uro�]B-HOu2m\'' }
+{ score: 16,
+  compareScore: 15,
+  value: 'wVEr,t�T !\u001eiO(oB>8,D\u0013�S0t�,dJ)' }
+{ score: 21,
+  compareScore: 17,
+  value: 'qTxdcLKtiJ\u001b�eFz=OK0\tHjcj�>ZN67' }
+{ score: 18,
+  compareScore: 15,
+  value: 'Vm k/G1qlx$_Nbs\u001e^!h$\'\u0014#\'gP}j"q' }
+{ score: 20,
+  compareScore: 15,
+  value: 'SHe-�z\'�riB"rTM(.N#rdN�rc<Gj�H' }
+{ score: 18,
+  compareScore: 16,
+  value: 'q�R�:aQs�rw|?OFj\'$�9X yRn;:Ez' }
+{ score: 19,
+  compareScore: 17,
+  value: 'C�q@�\'xI$\'\'Dv2ZK}s��uM}]elxCG�' }
+{ score: 17,
+  compareScore: 13,
+  value: '$j�yZd\u0012��S6euqc<:\u0014yuj+6S\'xK�i6' }
+{ score: 17,
+  compareScore: 6,
+  value: '\\}e2fzsf2fzw2bs`fk2{a2xgb{|u\u0018' }
+{ score: 19,
+  compareScore: 16,
+  value: 'x\u0014�9Ed< as�h!Gwi@k�\'yJyY�Ohv~%' }
+{ score: 19,
+  compareScore: 14,
+  value: 'ZN) cD.�y��dDqD�n�Tp\f?c i-J�Mh' }
+{ score: 19,
+  compareScore: 15,
+  value: '9�Wv8Xc-OW)FUp\\ 9b?Rh�r7owNp\u0017o' }
+{ score: 19,
+  compareScore: 15,
+  value: 'EVFBMPx8a"Er^g<7u�-_-% kDpy:OI' }
+{ score: 15,
+  compareScore: 13,
+  value: 'BUnXg/Q\u000bix,5\'&3Ou"e|?�~;y ?U�>' }
+{ score: 17,
+  compareScore: 13,
+  value: '*7TKZ;::\u001ega\'<\u0016ELiczd�Ejx5or{!9' }
+{ score: 21,
+  compareScore: 14,
+  value: 'riCW{ggD 6b4z�s0q\u0003GUl�EZ\\\'Wcz�' }
+{ score: 24,
+  compareScore: 22,
+  value: 'I75Yd�ROmty3ALiOY+Rn\'Nk\'SImy}o' }
+{ score: 21,
+  compareScore: 19,
+  value: 'A^yu4TFix3P#TV_HK�S5pvP\u0005zZ ae6' }
+{ score: 20,
+  compareScore: 14,
+  value: '��\rtuZN \u000exFFZQ�3p�o\u000eKbA\u0018k\u0012iqVX' }
+{ score: 21,
+  compareScore: 15,
+  value: '�bu*Wn� G)Hvy]2MW(nnNims�\u001amBvn' }
+{ score: 14,
+  compareScore: 8,
+  value: 't5�\'(va�nDmtke/�x"6\u0017>O��27�\'2N' }
+{ score: 20,
+  compareScore: 13,
+  value: 'cSK=lJnD5r)\u0001TWwfUY\'Wx;jI�79�j�' }
+{ score: 19,
+  compareScore: 18,
+  value: '�8WqK\'<1eV~OYN|bu.vlJo�eO� �x' }
+{ score: 22,
+  compareScore: 18,
+  value: '�vr�Y�AJRnDl\'pQnrmHRh6:0jx*�Ab' }
+{ score: 20,
+  compareScore: 14,
+  value: 'E)Vx\'(E�DVjKLTNB~fc$B+0YO7�qO6' }
+{ score: 20,
+  compareScore: 14,
+  value: '�2hG/ buE"KiTq\u0017�bcN9C�\u0004dOOR W#' }
+{ score: 17,
+  compareScore: 14,
+  value: 'Ruj�DYEn.u�#�`5|x -f8hx�c\'Y�M(' }
+{ score: 18,
+  compareScore: 13,
+  value: '!�jcgbC)gF"t\u0005:J�:IPlf�?O U�,ae' }
+{ score: 17,
+  compareScore: 15,
+  value: '\u0011zpy\u001f;�zDvrn <��j`b\u0015X�\\F0jst�q' }
+{ score: 17,
+  compareScore: 11,
+  value: 'I\\rJ\'3a\\Fibp\n00Rdl?�bB)�\'Z-�n>' }
+{ score: 12,
+  compareScore: 9,
+  value: '\u0004-gr��zn<�upv"�}lw~\u000by�\u000bn,*+f`9' }
+{ score: 18,
+  compareScore: 14,
+  value: 'QDiW�HrBI\u0017wSZ�T�bO+Gm?\u0015�7m���a' }
+{ score: 17,
+  compareScore: 16,
+  value: '�vdCe5Pp$qgk# /qKT.k60<-W=�9oR' }
+{ score: 23,
+  compareScore: 22,
+  value: 'Ea NEy2HcAoF2UmCUxe%s)Sv69KQL' }
+{ score: 18,
+  compareScore: 13,
+  value: 'Zrtx�\u0012c�?2IJ;\'G?,�cS5ONL;\u0011lNRW' }
+{ score: 22,
+  compareScore: 20,
+  value: '*>bIxE%\'Z#mtAYzJ�auu9qd\\oSdoN' }
+{ score: 20,
+  compareScore: 17,
+  value: 'dOq~ka!*O9\u001fX$A-hxp>vPD:tw�xbbI' }
+{ score: 18,
+  compareScore: 14,
+  value: '�D.j E09i11ap9�Qe\u001fAt@NXmaYUE��' }
+{ score: 19,
+  compareScore: 15,
+  value: ')r AN� f�T\'ye\\e%~9*KUM?\'3EieM<' }
+{ score: 20,
+  compareScore: 15,
+  value: '}X.fU�zqk?p,VxkzC\'A]AL �(\'�Bd@' }
+{ score: 16,
+  compareScore: 16,
+  value: '�BX5�vd�Q}$IMA,�VRRe���DX�t=z"' }
+{ score: 16,
+  compareScore: 13,
+  value: 'H6cP R<TVIrGZ\'9{�2;w!,j.�KA\u0017)�' }
+{ score: 15,
+  compareScore: 13,
+  value: '�4hFk�*5wz&8y YVn4j�A2M7e=)"V1' }
+{ score: 20,
+  compareScore: 18,
+  value: 'i3eL+m9xSGLI-hCwv�9vQ]4m� �lcw' }
+{ score: 19,
+  compareScore: 13,
+  value: 'aJIeA\u0013cCx.\u0001��wbJUC�O1wlzE�=W�\u0004' }
+{ score: 21,
+  compareScore: 10,
+  value: 'E>\'N0w�mvWmr\u0013% q�vHBDnp\u001c;zv-YS' }
+{ score: 21,
+  compareScore: 16,
+  value: 'Zk�~Pc\'eR8KnPBj>sX-Qj4=aIT��jo' }
+{ score: 18,
+  compareScore: 13,
+  value: 'DzY�SAk�Ss��JCbg4Tb]s�\u00179�Os8F�' }
+{ score: 20,
+  compareScore: 19,
+  value: 'w9"��tZyWnpW\u001eN\'f xrU�c�th\u0010^jQ' }
+{ score: 15,
+  compareScore: 12,
+  value: 'xk5s>KY~o�1F99z��OJ yPRF?\u0019(7�7' }
+{ score: 18,
+  compareScore: 17,
+  value: '�WoJY\'AKHG�(?Rc�g,s\u001bvU[~pbJ!��' }
+{ score: 23,
+  compareScore: 19,
+  value: 'u��yBkKo\'gf\u000egGvqcEMC#vb�yN%�wK' }
+{ score: 18,
+  compareScore: 15,
+  value: 'XjqY�qVM�<f�N0]aAPa\u001c�k3r5DlA1�' }
+{ score: 22,
+  compareScore: 17,
+  value: 'tzmEdLo7c5eXo;Xh��lbfnem�\u0010iDW_' }
+{ score: 22,
+  compareScore: 19,
+  value: 'NGLvoFgVltw.hnj�oA"o�exzB�w3>5' }
+{ score: 17,
+  compareScore: 15,
+  value: '�Ae$�P=xzyqp8dGRT1x�T=g�"\'34?M' }
+{ score: 20,
+  compareScore: 12,
+  value: 'f*C/I:jYr|w�bsiN)%R�  +FAu!lrL' }
+{ score: 19,
+  compareScore: 16,
+  value: 'mVVo @HZs*&Slؾ�: dpdOA\u0014` 4Us' }
+{ score: 22,
+  compareScore: 20,
+  value: '3JR�%Mk�uMun\'fk&aEE_�oL?YrMlgq' }
+{ score: 17,
+  compareScore: 15,
+  value: 'qI;V=UB�ez \u0005BF.�RH(��NE�\u001eKf:a?' }
+{ score: 17,
+  compareScore: 16,
+  value: 'e7n/D3<GqXzmQ�EO�B1*}W*��d;UPj' }
+{ score: 17,
+  compareScore: 14,
+  value: '\'p\\jB*G=��v4.&\'L� P�TG\u0002-QWqP.d' }
+{ score: 17,
+  compareScore: 15,
+  value: '@�P%0hYpv>k� y�}w��cZm8\u000bD(wyQJ' }
+{ score: 21,
+  compareScore: 19,
+  value: 'Q7]Kl(X4wQL\\gU*;7ej  XQ0OjkhtD' }
+{ score: 17,
+  compareScore: 14,
+  value: 'xD|5\'!�yjS��c1So,t3O>6cV�yT8ZH' }
+{ score: 23,
+  compareScore: 16,
+  value: 'x�lCsXHZglKf*M�+o&haS\'B3u;YsOR' }
+{ score: 18,
+  compareScore: 14,
+  value: '+Fx�z`Sts�o�;Bk�TEcjC(n q�}k6=' }
+{ score: 18,
+  compareScore: 14,
+  value: 'a�.HȍC)? Tp;BUnax\u001bRS:\u0000�dTdLn�' }
+{ score: 23,
+  compareScore: 18,
+  value: 'tsVpxdmmp#E;a.bW1)yQBkxDi={vFG' }
+{ score: 16,
+  compareScore: 15,
+  value: 'K�_Sz; "\u001e�D!pUZ�Y��)RkO�g@> ze' }
+{ score: 21,
+  compareScore: 20,
+  value: '\'.�HJEDu>s>,nJ(iHOSB�vJ3FHOi;I' }
+{ score: 20,
+  compareScore: 8,
+  value: '�Tq-ujeoT)uvjG�WMRI�r6J.A=&/t\'' }
+{ score: 17,
+  compareScore: 14,
+  value: 'Yx%;\'Sp#4A#:KI=�f$;)e� B bBS\u0002p' }
+{ score: 17,
+  compareScore: 16,
+  value: '&�t(Z�LaIܟ"yYsc>h L#nT=_oG3�e' }
+{ score: 15,
+  compareScore: 10,
+  value: 'p9�TfK52W�2yM\u000b\u001fIa\'30\\�v -\u0003Xyl�' }
+{ score: 17,
+  compareScore: 14,
+  value: '�8zSIA\u0018VJ0#�fBK=yo�vv:^�t�YE\'�' }
+{ score: 16,
+  compareScore: 13,
+  value: 'D��I*vcRQb\'\bT�N�0Yl0\u00074\\1cF7g/k' }
+{ score: 19,
+  compareScore: 16,
+  value: 'Q l#%xpz#0UzcpG*(5\'sH8m�kYRM|.' }
+{ score: 20,
+  compareScore: 17,
+  value: '<\'e&�avh�EV{e\'h9Q�QhrS dJs\u001bc�6' }
+{ score: 16,
+  compareScore: 15,
+  value: '3s#Rfa�W=D�E\f�Ac�nK9Dy\'|�0Z96B' }
+{ score: 20,
+  compareScore: 17,
+  value: '�FIc#w\'ZsgcQl�Yi�jk�\u001aJZ5��yl?u' }
+{ score: 21,
+  compareScore: 14,
+  value: '\'VIhw� N\'^6e\'< (%d$UsY1fx&gftw' }
+{ score: 13,
+  compareScore: 9,
+  value: 'V2�JlH\u0011Q1B�01�k,O2ja�?;25x%D=n' }
+{ score: 16,
+  compareScore: 13,
+  value: '��-}�Sgsk REL�(�B1�Z,LhJ<dd)k\u001a' }
+{ score: 20,
+  compareScore: 16,
+  value: 'x�e�bHz,ixX*bRwJrL&YwH>?7t48OD' }
+{ score: 22,
+  compareScore: 19,
+  value: 'cbJY WFI�{SA:L_\u001aLlZpUz8l2,HFga' }
+{ score: 16,
+  compareScore: 12,
+  value: '2,W| ��j\u001dQ!�rvG\fG- l )G8�JQze' }
+{ score: 15,
+  compareScore: 12,
+  value: '6C���N-Od\u001fKc?L�P UX�sG>;U9�{*t' }
+{ score: 16,
+  compareScore: 14,
+  value: 'a*K2j$�E�]�5(t�K�"dH\'KX)BMwfg' }
+{ score: 20,
+  compareScore: 14,
+  value: ':ectnVGz�Z(kia$�8xdDqVτ 7J s_' }
+{ score: 18,
+  compareScore: 12,
+  value: 'dV�\'y�-c�ZM=))^RV� Vi&J.oS7qQB' }
+{ score: 17,
+  compareScore: 10,
+  value: 'BF9T�\u0001smKl4Y5i=\r2�oH91nQj�c\u0014 P' }
+{ score: 16,
+  compareScore: 13,
+  value: 'p�._o�4nBytB>\u000b�L%Vy:kH?\u0002A\'?M,p' }
+{ score: 20,
+  compareScore: 16,
+  value: '\u0005Zx8�\u0013Jwhb!�9u_Csw>+kODWUhXBzD' }
+{ score: 22,
+  compareScore: 19,
+  value: '�UzeN�CX%\'gQ$q>pLR9YZ GC�Las�T' }
+{ score: 17,
+  compareScore: 7,
+  value: 'ZYf<:en&)@0E�\'GYSK?w�uDFG��\',2' }
+{ score: 18,
+  compareScore: 14,
+  value: '\\EU2B1,M&<  )p.H�b{fnPB\u0015E3laxw' }
+{ score: 22,
+  compareScore: 21,
+  value: 'Vk`:x(�vhlrigP.OObg|G4q�FZwUAC' }
+{ score: 16,
+  compareScore: 15,
+  value: '�#e1^h�LKw$��0%J7PZp79ig Q/aca' }
+{ score: 19,
+  compareScore: 16,
+  value: 'hHTAr�kXi/Q%�#yca}Um4B�3Fi s�\u0006' }
+{ score: 19,
+  compareScore: 14,
+  value: 'QlSF8�bV`=\u0007KofYh5^F q)T0LgE4v0' }
+{ score: 20,
+  compareScore: 17,
+  value: 'ZZJ�r,e f1alZEV~Zo\u0007�q7�xk"�uYo' }
+{ score: 20,
+  compareScore: 18,
+  value: 'soQk�YD tJP(f Ibdbz\\<M>�Vx11�4' }
+{ score: 18,
+  compareScore: 17,
+  value: 't�t�OV�0z5z)`9|TU50qRkbtDE F \u0001' }
+{ score: 15,
+  compareScore: 14,
+  value: '�dh$>e��h(lJAS Xvk\\�3�R5&Z8_�y' }
+{ score: 23,
+  compareScore: 18,
+  value: 'uNtHLuwERzQ4ngl3)&jMivT�gef*R�' }
+{ score: 18,
+  compareScore: 15,
+  value: 'O\'I[1rZy�e2o�>?ycyDL(�іVhoL(m' }
+{ score: 21,
+  compareScore: 20,
+  value: 'XOXrShk.\u0003M�2wJTW1;%qaX*dHS9G\'M' }
+{ score: 18,
+  compareScore: 14,
+  value: '\u0007-jD+8KE�Z<Ng�JM*+\'eFcV?StiR3_' }
+{ score: 21,
+  compareScore: 18,
+  value: 'Pw>[oxG2�eOC ;JaKp �JnQmfI*P4' }
+{ score: 18,
+  compareScore: 17,
+  value: 'E$QKIXbp�\'VDY%H8h:�Q�5eA8o<@F' }
+{ score: 20,
+  compareScore: 16,
+  value: 'RqDL]2�V- vI{fG5vHnx�z)2l<bfnM' }
+{ score: 17,
+  compareScore: 16,
+  value: 'nz��Sm\fSS��?H=2RTRh^�n�T\'d�<YC' }
+{ score: 21,
+  compareScore: 20,
+  value: 'QemywtWO,qwwk+=a\u000f�|ECT;^qI�xKf' }
+{ score: 19,
+  compareScore: 17,
+  value: '$�B:<*en\u0003S+c�U dDhYOoggc_ `R�E' }
+{ score: 23,
+  compareScore: 16,
+  value: 'tBhYC5zw\u001aO>jCKnRH>?FZ�x�svQakf' }
+{ score: 19,
+  compareScore: 11,
+  value: 'ImesQet�Z5Q4.0c;rjzj--�r\'zr�P*' }
+{ score: 17,
+  compareScore: 14,
+  value: 'U3G-;G�3H:d,dw�rQ&VD2S(O0f7\'Io' }
+{ score: 22,
+  compareScore: 22,
+  value: 'L@xf0RxU.iBg�C�,UMp�W6ZZlIjdmA' }
+{ score: 13,
+  compareScore: 10,
+  value: '�\'9>K"3\u0010�{aM�UD.4Y+jlI\u0005S;z*b#>' }
+{ score: 16,
+  compareScore: 14,
+  value: 'J0R?�ZWuC3 :�B�ZjPH@�\'9�YAF.<' }
+{ score: 18,
+  compareScore: 13,
+  value: '1\'sM^S\'3�b\u0015zG�L�tPf�;jsHBFK.�' }
+{ score: 21,
+  compareScore: 16,
+  value: 'XUpN@yvJ d�So\b\u0017R�aJ�G|�mTAjyk\u0016' }
+{ score: 21,
+  compareScore: 20,
+  value: 'B3Cf�Sc$1wBEk0�tPZut*3bSVS\tMiS' }
+{ score: 17,
+  compareScore: 12,
+  value: 'Gn\'��cp\'F)\u0013�GVi-Th% 8��znJ}?B#' }
+{ score: 19,
+  compareScore: 16,
+  value: '�c-6tF�r/UDc�n/JNJf!\tOQDYz2VF)' }
+{ score: 20,
+  compareScore: 18,
+  value: 'qVg7VOcW�.Rb�w1>o\'3IYVHX.�NA>U' }
+{ score: 26,
+  compareScore: 23,
+  value: 'Iu<HKzhxpik6TxkaNqwS;ad\u001exTBXik' }
+{ score: 21,
+  compareScore: 16,
+  value: 'sDgjI|U�QL8r#�q\'j\u0015Ene&e?Vtf> A' }
+{ score: 17,
+  compareScore: 15,
+  value: ';ZX�pU�\'bKtOL\\k@xtl �d�nť���' }
+{ score: 18,
+  compareScore: 13,
+  value: 'HEQ�8)r3>�Nm+dxOeL(NSGAI�yדs/' }
+{ score: 20,
+  compareScore: 13,
+  value: 'QXfkyb3m?Rflo(i !SEqe(1t�\t\u000e/ZP' }
+{ score: 19,
+  compareScore: 17,
+  value: 'E0i�N<yVE�c0�Ne\fTx*Vuw*aSeg\u00159j' }
+{ score: 23,
+  compareScore: 14,
+  value: 'X\'OqOj8kpGau"6#i\'LbFeD>=qHGo>P' }
+{ score: 17,
+  compareScore: 14,
+  value: '6aZZqO?O q<k�3�8l��\'�IJ?$Q9iDs' }
+{ score: 17,
+  compareScore: 14,
+  value: '\u0007S}LUif!?�h7:t=: xMCCV&2s\u0002gZk�' }
+{ score: 20,
+  compareScore: 18,
+  value: 'PRBS/?v\u001av}�mVt X=oJ\u0016G�Dd)QuWO' }
+{ score: 21,
+  compareScore: 16,
+  value: 'qx��MWbiH?�SvS*i^CJ\'�fcRuy3lQ?' }
+{ score: 16,
+  compareScore: 14,
+  value: 'JftaND4Q-?�tQ�6ncb�I)2�?\b\u001bwD�e' }
+{ score: 23,
+  compareScore: 18,
+  value: 'cS�roywwD liGA���KdQ+Eb#uUfn9o' }
+{ score: 21,
+  compareScore: 14,
+  value: 'PNib�CjEx8\u0001C�FKDQYN_iH�q=7e\'o?' }
+{ score: 20,
+  compareScore: 17,
+  value: 'mNlgCi9+TrzJ=H\u000bPAb��l!kf\fBP|<\'' }
+{ score: 20,
+  compareScore: 16,
+  value: '��eR�Wf:Me�\u000ei\u0002[gYv\'qSbABHN\u0015L>x' }
+{ score: 17,
+  compareScore: 10,
+  value: 'Rk C GkI0\nlN�!twQ:��5 DG`�I�?)' }
+{ score: 17,
+  compareScore: 15,
+  value: 'W6LsW7r�KY�3�:fgbe5+m�(K��tIUp' }
+{ score: 20,
+  compareScore: 17,
+  value: '<dB|bPYGw 7pm%�p~\'9a?p?Qn Z"ba' }
+{ score: 17,
+  compareScore: 12,
+  value: 'Qb�S*X�/N EzV��X(�Pmd�mesc�}��' }
+{ score: 21,
+  compareScore: 16,
+  value: '3h�Iwbavm0FJ�25NFd�:MuMxcxCy�Q' }
+{ score: 19,
+  compareScore: 17,
+  value: 'LCO�+�#sH(;dW �eLvu�\'qMAg\\HA\r' }
+{ score: 15,
+  compareScore: 10,
+  value: ' dTh2rP\u0012e�)4 ,8g!504+rwr-�+uyB' }
+{ score: 15,
+  compareScore: 13,
+  value: 'o?t p6\n0_PI4Znw�eQ:�x;�MGC\u0013�<�' }
+{ score: 15,
+  compareScore: 12,
+  value: '!lr 7H($= 1O6iZLKdH\u000e"+DEb�����' }
+{ score: 18,
+  compareScore: 11,
+  value: '\u0013-�TwmdzusR\'�p�ct1Y&ecQ0�8b#E�' }
+{ score: 23,
+  compareScore: 19,
+  value: 'zU QH>V�Zo}GAg`so&agW$EQxlftP�' }
+{ score: 19,
+  compareScore: 19,
+  value: '�O/?GdK\r%MIbYl6Nfs�j<NB2jc�qh�' }
+{ score: 18,
+  compareScore: 12,
+  value: 'Q��2\'h&a6yJh$��gCa=M p)p<veo\u0019n' }
+{ score: 16,
+  compareScore: 14,
+  value: 'K2Su904XG3X\u00049O:N2l<HA\'U.��\'tv' }
+{ score: 19,
+  compareScore: 12,
+  value: '+NXuVl&n\\\'"bzb�p24;ive\u001dlWi+dr(' }
+{ score: 21,
+  compareScore: 18,
+  value: 'kYK(ExE vTtd�5A-PA�o24 ~pdf�oK' }
+{ score: 23,
+  compareScore: 19,
+  value: ':AqgoN;,e?jWxN\u0018yzfSyZ+GqYUaS�U' }
+{ score: 19,
+  compareScore: 17,
+  value: '[46Uj��P=TpHsXTbSn5g>oF;Z92TAi' }
+{ score: 18,
+  compareScore: 14,
+  value: 'o*.kFJQ}�aG\u000b  DbwW�yF)�?U\b�;dL' }
+{ score: 18,
+  compareScore: 13,
+  value: '(lV5�6\u0006?��(c=nAiIbO /cGSUQ Ce' }
+{ score: 18,
+  compareScore: 13,
+  value: '?ti$�F\u001d�fcO/ �\'uLSjGz\u001a�y]Kn(V&' }
+{ score: 19,
+  compareScore: 17,
+  value: 'SeN\'"|M%\u0001\u0018U�ymqIr\u000b>JGhOZM/HQ9;' }
+best guess: { score: 0,
+  value: 'SeN\'"|M%\u0001\u0018U�ymqIr\u000b>JGhOZM/HQ9;' }
